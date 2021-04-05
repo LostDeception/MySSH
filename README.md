@@ -7,7 +7,7 @@ made this look much better with ElectronJS but this does what it is supposed to.
 
 <br />
 <p align="left">
-  <img src="images/app.png" alt="Logo" width="550" height="425">
+  <img src="images/app.png" alt="Logo" width="550" height="400">
 </p>
 
 ### Built With
