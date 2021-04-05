@@ -6,8 +6,8 @@ with java UI frameworks so it sounded like a lot of fun. I ended up using JSCH t
 made this look much better with ElectronJS but this does what it is supposed to.
 
 <br />
-<p align="center">
-  <img src="images/app.png" alt="Logo" width="80" height="80">
+<p align="left">
+  <img src="images/app.png" alt="Logo" width="250" height="200">
 </p>
 
 ### Built With
