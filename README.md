@@ -30,5 +30,5 @@ made this look much better with ElectronJS but this does what it is supposed to.
 <!-- CONTACT -->
 ## Contact
 
-Author: Timothy Mickelson
+Author: Timothy Mickelson <br/>
 Email: tmickelson93@gmail.com
